@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/...)
+- LinkedIn: https://www.linkedin.com/in/stuti-gaonkar
 - Email: stutiii24@gmail.com
 
 

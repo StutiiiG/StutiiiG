@@ -2,12 +2,12 @@
 
 ## Hi, I'm Stuti 👋
 
-- 🎓 MS Data Science @ University of Washington
-- 🤖 Interested in machine learning, LLMs, and AI for healthcare & accessibility
-- 🧠 Currently exploring: LoRA + federated learning, computer vision, and ML systems
-- 🤝 Open to collaborating on impactful AI / data science projects
+- 🎓 Currently pursuing MS Data Science @ University of Washington
+- 🤖 I work at the intersection of **machine learning, data science, and computer vision**, with a focus on **socially impactful AI**.
+- 🌱 Outside of work, you’ll find me obsseing over skincare, fashion or just hitting the gym
+- 🤝 Always open to collaborating on researchy / high-impact projects or just geeking out about ML.  
 
-## 🔧 Tech Stack
+## 💻 Tech Stack
 
 **Languages:** Python, SQL, C/C++, R  
 **ML / DL:** PyTorch, TensorFlow, scikit-learn, Keras  

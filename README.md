@@ -26,13 +26,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
 </p>
 
-### Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-0099CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=tableau" />
-</p>
-
 ### MLOps, Data Engineering & Platforms
 <p>
   <img src="https://img.shields.io/badge/Databricks-FC4C02?logo=databricks&logoColor=white&style=for-the-badge" />
@@ -59,7 +52,7 @@
 </p>
 
  
-##  How to reach me
+## 📫 How to reach me
 
 - LinkedIn: https://www.linkedin.com/in/stuti-gaonkar
 - Email: stutiii24@gmail.com

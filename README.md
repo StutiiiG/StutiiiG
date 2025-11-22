@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-0099CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
   <img src="https://skillicons.dev/icons?i=tableau" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
 </p>
 
 ### ⚙️ MLOps, Data Engineering & Platforms
@@ -51,7 +50,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🧪 APIs, Testing & Developer Tools
+### 🧪 API and Testing 
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge" />

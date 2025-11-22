@@ -24,9 +24,11 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" />
 </p>
 
-### MLOps, Data Engineering & Platforms
+### Platforms
 <p>
   <img src="https://img.shields.io/badge/Databricks-FC4C02?logo=databricks&logoColor=white&style=for-the-badge" />
   <img src="https://skillicons.dev/icons?i=docker" />
@@ -34,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Cloud & Deployment

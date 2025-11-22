@@ -6,7 +6,7 @@
 - 🤖 I work at the intersection of **machine learning, data science, and computer vision**, with a focus on **socially impactful AI**.
 - 🌱 Outside of work, you’ll find me obsseing over skincare, fashion or just hitting the gym
 - 🤝 Always open to collaborating on researchy / high-impact projects or just geeking out about ML.
--  
+- 📫 Reach me @ stutiii24@gmail.com / https://www.linkedin.com/in/stuti-gaonkar  
 
 ## 💻 Tech Stack
 
@@ -52,10 +52,6 @@
 </p>
 
  
-## 📫 How to reach me
-
-- LinkedIn: https://www.linkedin.com/in/stuti-gaonkar
-- Email: stutiii24@gmail.com
 
 
 <!--

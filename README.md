@@ -5,17 +5,18 @@
 - 🎓 Currently pursuing MS Data Science @ University of Washington
 - 🤖 I work at the intersection of **machine learning, data science, and computer vision**, with a focus on **socially impactful AI**.
 - 🌱 Outside of work, you’ll find me obsseing over skincare, fashion or just hitting the gym
-- 🤝 Always open to collaborating on researchy / high-impact projects or just geeking out about ML.  
+- 🤝 Always open to collaborating on researchy / high-impact projects or just geeking out about ML.
+-  
 
 ## 💻 Tech Stack
 
-### 🧩 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" /> 
   <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
-### 🤖 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://skillicons.dev/icons?i=pytorch" />
@@ -25,14 +26,14 @@
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
 </p>
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-0099CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
   <img src="https://skillicons.dev/icons?i=tableau" />
 </p>
 
-### ⚙️ MLOps, Data Engineering & Platforms
+### MLOps, Data Engineering & Platforms
 <p>
   <img src="https://img.shields.io/badge/Databricks-FC4C02?logo=databricks&logoColor=white&style=for-the-badge" />
   <img src="https://skillicons.dev/icons?i=docker" />
@@ -42,7 +43,7 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" />
 </p>
 
-### ☁️ Cloud & Deployment
+### Cloud & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=gcp" />
@@ -50,7 +51,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🧪 API and Testing 
+### API and Testing 
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge" />
@@ -58,7 +59,7 @@
 </p>
 
  
-## 📫 How to reach me
+##  How to reach me
 
 - LinkedIn: https://www.linkedin.com/in/stuti-gaonkar
 - Email: stutiii24@gmail.com

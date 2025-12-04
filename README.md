@@ -51,7 +51,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge" />
 </p>
 
  

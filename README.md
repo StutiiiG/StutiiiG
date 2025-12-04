@@ -2,13 +2,13 @@
 
 ## Hi, I'm Stuti 
 
-- 🎓 Currently pursuing MS Data Science @ University of Washington
-- 🤖 I work at the intersection of **machine learning, data science, and computer vision**, with a focus on **socially impactful AI**.
-- 🌱 Outside of work, you’ll find me obsseing over skincare, fashion or hitting the gym
-- 🤝 Always open to collaborating on research / high-impact projects or just geeking out about ML.
-- 📫 Reach me @ stutiii24@gmail.com / https://www.linkedin.com/in/stuti-gaonkar  
+-  Currently pursuing MS Data Science @ University of Washington
+-  I work at the intersection of **machine learning, data science, and computer vision**, with a focus on **socially impactful AI**.
+-  Outside of work, you’ll find me obsseing over skincare, fashion or hitting the gym
+-  Always open to collaborating on research / high-impact projects or just geeking out about ML.
+-  Reach me @ stutiii24@gmail.com / https://www.linkedin.com/in/stuti-gaonkar  
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>

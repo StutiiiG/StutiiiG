@@ -47,14 +47,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white&style=for-the-badge" />
 </p>
 
-### API and Testing 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge" />
-</p>
-
- 
-
 
 <!--
 **StutiiiG/StutiiiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
